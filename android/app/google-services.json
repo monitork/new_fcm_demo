@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "757834666963",
+    "project_id": "aloplay-45ed1",
+    "storage_bucket": "aloplay-45ed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757834666963:android:d83d4cb4f8ea5434bbd526",
+        "android_client_info": {
+          "package_name": "net.gonex.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757834666963-23o1jg2rsbidf25dj7uea950vjt771r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.gonex.notify",
+            "certificate_hash": "b351a2ee2164c965a4046e4766c0e946a6b272a9"
+          }
+        },
+        {
+          "client_id": "757834666963-1c2ho6qric1471rlmol2uncnpcdkasja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2op82mi163ggdIxNZVP1kTn8lIQiAIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757834666963-1c2ho6qric1471rlmol2uncnpcdkasja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757834666963-2dtlbpv7erg1ehvdq8ie1bd6logladcd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.gonex.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
